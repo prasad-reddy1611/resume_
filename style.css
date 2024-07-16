@@ -1,3 +1,18 @@
-.heading{
-    background-color:sandybrown;
+*{
+    background-color: #FFE2FE;
 }
+.heading{
+    background-color:#939196;
+    border-radius: 5px;
+}
+#table{
+    text-align: center;
+    width: 400px;
+}
+table,th,tr,td{
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: #939196;
+    transition-duration: 1s;
